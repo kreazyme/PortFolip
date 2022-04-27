@@ -339,7 +339,17 @@ input:-ms-input-placeholder {
     color: #5f7586;
 }
 
-.icon-dribble{	content:url("../images/section/05.png");
+.icon-dribble{	content:url("../images/section/github.png");
+    display: inline;
+    max-height: 20px;
+    }
+
+.fa-behance{	content:url("../images/section/mess.png");
+    display: inline;
+    max-height: 20px;s
+    }
+
+.fa-twitter{	content:url("../images/section/linkedin-logo.png");
     display: inline;
     max-height: 20px;
     }
