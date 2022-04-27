@@ -79,7 +79,7 @@ body {
 .flat-title .title-section {
     font-size: 50px;
     line-height: 60px;
-    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* site-list
@@ -110,7 +110,7 @@ body {
     animation-direction: alternate;
 }
 .site-list .bg-s1 {
-    background-color: #1da1f2;
+    background-color: #0E69C3;
 }
 .site-list .bg-s2 {
     background-color: #1769ff;
@@ -269,7 +269,7 @@ body {
 }
 .iconbox-s1 .ct-is .title a {
     font-size: 24px;
-    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .mgl-iconbox-s1 {
     margin-left: -14px;
@@ -279,7 +279,7 @@ body {
 }
 .iconbox-s2 .title a {
     font-size: 24px;
-    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .iconbox-s2-t1 {
     padding: 50px 41px 48px 50px;
@@ -460,7 +460,7 @@ body {
 .image-link .portfolio-template-link a {
     font-size: 30px;
     position: relative;
-    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .image-link .portfolio-template-link a:after {
     content: '';
